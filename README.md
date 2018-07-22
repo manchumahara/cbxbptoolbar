@@ -1,0 +1,2 @@
+# cbxbptoolbar
+BuddyPress Global Toolbar
