@@ -1,5 +1,6 @@
-# cbxbptoolbar
-BuddyPress Global Toolbar
+# BuddyPress Global Toolbar
+![Screenshot](https://github.com/manchumahara/cbxbptoolbar/blob/master/assets/images/screenshot_1.png?raw=true)
+
 
 === CBX BuddyPress Toolbar ===
 Contributors: codeboxr, manchumahara
