@@ -23,5 +23,3 @@ This plugin simply adds a global toolbar in BuddyPress frontend
 
 = 1.0.0 =
 * Initiala release
-
-
